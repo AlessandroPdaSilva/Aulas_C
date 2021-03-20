@@ -1,1 +1,3 @@
-# Aulas_C
+# Aulas em C - :relaxed:
+
+Aulas do youtube da linguagem C 
